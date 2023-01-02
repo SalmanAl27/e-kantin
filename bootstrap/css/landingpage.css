@@ -1,0 +1,23 @@
+.jumbotron {
+  background-size: cover;
+  height: 790px;
+}
+
+h1,
+.display-4 {
+  font-size: 100px;
+  color: white;
+  text-shadow: 1px 1px 20px black;
+  font-weight: 400;
+}
+
+.tombol {
+  font-size: 55px;
+  text-transform: uppercase;
+  border-radius: 50px;
+  height: 100px;
+  width: 200px;
+  margin-top: 100px;
+  margin-left: 140px;
+  box-shadow: 1px 1px 10px black;
+}
